@@ -18,6 +18,7 @@ nav li {
 }
 
 main {
+    margin: auto;
     display: flex;
     flex-direction: row;
     gap: 82px;
