@@ -1,1 +1,0 @@
-colocar as fontes e tamanhos antes de tentar alinhar tudo

@@ -32,6 +32,10 @@ a {
     color: #fff;
 }
 
+a:hover {
+    color: #C2C2C2;
+}
+
 h1 {
     color: #fff;
     font-family: "JetBrains Mono", monospace;
